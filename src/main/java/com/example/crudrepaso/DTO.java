@@ -10,4 +10,5 @@ public class DTO {
     private  String name;
     private Long number;
     private int num;
+    private String skill;
 }
