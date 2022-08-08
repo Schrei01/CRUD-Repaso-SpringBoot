@@ -11,4 +11,5 @@ public class DTO {
     private Long number;
     private int num;
     private String skill;
+    private String[] keyWords;
 }
