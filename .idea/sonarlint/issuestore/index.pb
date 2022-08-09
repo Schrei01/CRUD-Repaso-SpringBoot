@@ -11,3 +11,5 @@ d
 4src/main/java/com/example/crudrepaso/Controller.java,3\4\347025a34d01bde0475370f3598c4e3f1fcf425e
 a
 1src/main/java/com/example/crudrepaso/Service.java,2\9\29753f7e72640cea9a2a405a90fc7a0aa0b08c32
+]
+-src/main/java/com/example/crudrepaso/DTO.java,f\b\fb60be3edb5c63beb9021ea5febb9a33e8468ccf
